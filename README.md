@@ -1,5 +1,5 @@
 # Spreadsheet Calculator
-## Calculates complex spreadsheet cell inputs
+### Calculates complex spreadsheet cell inputs
 
 ## Supported Functionalities
 1. Supports operations on positive integers and cell references.
@@ -12,9 +12,9 @@
 	5. Cell references `A1`
 
 ## Examples
-### 1. input1.txt
+### 1. input001.txt
 
-#### Inputs:
+#### Input:
 
 | | 1        | 2           | 3  |
 |----| ------------- |---------------| ------|
@@ -22,7 +22,7 @@
 |B  | A1 B2 / 2 + |3 |39 B1 B2 * /|
 
 
-#### Results:
+#### Output:
 
 20.00000
 
@@ -36,8 +36,6 @@
 
 1.50000
 
-
-#### PrettyPrint Results:
 
 | | 1        | 2           | 3  |
 |----| ------------- |---------------| ------|
