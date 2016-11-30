@@ -5,7 +5,7 @@
 1. Supports operations on positive integers and cell references.
 2. Detects and reports circular dependencies between cells
 3. Supported Operations:
-	1. Additon `+`
+	1. Addition `+`
 	2. Subtraction `-`
 	3. Multiplication `*`
 	4. Division `/`
